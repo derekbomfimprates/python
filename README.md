@@ -51,24 +51,3 @@ Figure 7 Delete System - Allow users to delete the news that was saved.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/75395170/135092192-c7ce1379-6571-4506-8f17-203a8be16299.png)
-
-
-
